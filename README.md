@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rune Eberhardt aka. @denBruneBarone
 - I’m studying Software Engineering on Aalborg University (AAU)
-- Currently learning C programming
+- Currently learning C and JS.
 
 
 <!---
